@@ -12,7 +12,7 @@ __Creation Date:__ February 28, 2023
 ### 3. Click on Edit this file.
 ![The edit button, which looks like a pencil, is highlighted. ](/images/editbutton.png)
 
-### 4. Make your edits.
+### 4. Edit the file.
 
 ### 5. When done editing the file, select "Create a new branch..." in the Commit changes section.
 ![The second radio button, Create a new branch, is selected.](/images/createnewbranch.png)
