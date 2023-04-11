@@ -14,14 +14,12 @@ __Creation Date:__ February 28, 2023
 
 ### 4. Edit the file.
 
-### 5. When done editing the file, select "Create a new branch..." in the Commit changes section.
+### 5. Under the Commit changes section, select "Create a new branch..." and enter a branch name for your edited file.
 ![The second radio button, Create a new branch, is selected.](/images/createnewbranch.png)
 
+### 6. Select 'Propose changes' button to Create a Pull Request.
 
-### 6. Type a branch name for the file that contains your changes.
-![A text input field, below the selected "Create new branch" radio button, has a branch name entered.](/images/enterbranch.png)
-
-### 7. Select 'Propose changes' button to Create a Pull Request.
+(Continue to [Create a Pull Request instructions](create_a_pr.md))
 
 
 ***
