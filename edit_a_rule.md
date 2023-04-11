@@ -15,7 +15,7 @@ __Creation Date:__ February 28, 2023
 ### 4. Edit the file.
 
 ### 5. Under the Commit changes section, select "Create a new branch..." and enter a branch name for your edited file.
-![The second radio button, Create a new branch, is selected.](/images/createnewbranch.png)
+![The second radio button, Create a new branch, is selected.](/images/enterbranch.png)
 
 ### 6. Select 'Propose changes' button to Create a Pull Request.
 
