@@ -1,9 +1,6 @@
-# [Find your Pull Request Review Requests]
+# Find your Pull Request Review Requests
 
 As an ACT member, you will very likely be asked to review other members' Pull Requests. Here's how you can find your assigned pull requests that need your review.
-
-__Creation Date:__ April 11, 2023  
-__Created By:__ Kathy Eng  
 
 ***
 
